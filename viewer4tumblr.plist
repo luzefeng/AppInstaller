@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://xxx/xxx.ipa</string>
+                    <string>https://github.com/luzefeng/AppInstaller/blob/master/Viewer4Tumblr.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.fnst.smartwork</string>
+                <string>com.lu.free.viewer4tumblr</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>xxx.ipa</string>
+                <string>Viewer4Tumblr.ipa</string>
             </dict>
         </dict>
     </array>
